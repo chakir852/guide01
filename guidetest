@@ -1,0 +1,95 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Dark Meadow: The Pact",
+        "image": "https://usercontent2.hubstatic.com/6961601.jpg"
+      },
+      {
+        "title": "The Old 2",
+        "image": "https://usercontent1.hubstatic.com/8037694.jpg"
+      },
+      {
+        "title": "Call of Cthulhu: Wasted Land ",
+        "image": "https://usercontent1.hubstatic.com/6961608.jpg"
+      },
+      {
+        "title": "Dead Space Android",
+        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg"
+      },
+      {
+        "title": "Bloody Mary",
+        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg"
+      },
+      {
+        "title": "Twisted Lands: Shadow Town",
+        "image": "https://usercontent1.hubstatic.com/6961620.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://usercontent1.hubstatic.com/8037694.jpg",
+        "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://usercontent1.hubstatic.com/6961608.jpg",
+        "text": "A touch-centric game, The Pact has gesture-based controls that allow gamers to use common finger gestures while operating a crossbow or a sword. The controls are easy to master and quite fun. The stunning visuals, provided by Unreal's Game Engine 3, are an unmatched visual feast.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
+        "image_link": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
+        "text": "Dark Meadow is an exploration-based game and has some scary surprises in store. While exploring the haunted hospital, you will uncover several , puzzles, and weapons. You can use in-game money to buy items and equipment that will help you survive the goblin onslaught. With amazing visuals, deep storyline, and excellent gameplay, this survival horror game is here to give you the creeps.",
+        "isNative": "false"
+      }
+    ]
+  }
+}
