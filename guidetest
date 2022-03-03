@@ -65,7 +65,8 @@
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "https://usercontent1.hubstatic.com/8037694.jpg",
-        "text": "hna test dyal text hna kanjarbo hna <p><span style="color: red;">&nbsp;textmed,text</span></p>.",
+        "text": "hna test dyal text hna kanjarbo hna
+        <p><span style="color: red;">&nbsp;textmed,text</span></p>",
         "isNative": "true"
       },
       {
