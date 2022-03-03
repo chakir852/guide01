@@ -59,7 +59,7 @@
       },
       {
         "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
+        "color": "#390101","style": "blood",
         "gravity": "left",
         "left": "5",
         "text_size": "20",
