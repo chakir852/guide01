@@ -77,6 +77,7 @@
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "https://usercontent1.hubstatic.com/6961608.jpg",
         "text": "A touch-centric game, The Pact has gesture-based controls that allow gamers to use common finger gestures while operating a crossbow or a sword. The controls are easy to master and quite fun. The stunning visuals, provided by Unreal's Game Engine 3, are an unmatched visual feast.",
+      
         "isNative": "true"
       },
       {
@@ -87,7 +88,7 @@
         "text_size": "25",
         "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
         "image_link": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
-        "text": "Dark Meadow is an exploration-based game and has some scary surprises in store. While exploring the haunted hospital, you will uncover several , puzzles, and weapons. You can use in-game money to buy items and equipment that will help you survive the goblin onslaught. With amazing visuals, deep storyline, and excellent gameplay, this survival horror game is here to give you the creeps.",
+        "text": "Dark Meadow is an exploration-based game and has some scary surprises in store. While exploring the haunted hospital, you will uncover several , puzzles, and weapons. You can use in-game money to buy items and equipment that will help you survive the goblin onslaught. With amazing visuals, deep storyline, and excellent gameplay, this survival horror game is here to give you the creeps.<p><span style="color: red;">&nbsp;textmed,text</span></p>",
         "isNative": "false"
       }
     ]
