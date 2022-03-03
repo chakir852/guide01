@@ -59,13 +59,13 @@
       },
       {
         "ordered": "image_text",
-        "color": "#390101","style": "blood",
+        "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "https://usercontent1.hubstatic.com/8037694.jpg",
-        "text": "tag tag tag tag ",
+        "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
         "isNative": "true"
       },
       {
@@ -77,7 +77,6 @@
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "https://usercontent1.hubstatic.com/6961608.jpg",
         "text": "A touch-centric game, The Pact has gesture-based controls that allow gamers to use common finger gestures while operating a crossbow or a sword. The controls are easy to master and quite fun. The stunning visuals, provided by Unreal's Game Engine 3, are an unmatched visual feast.",
-      
         "isNative": "true"
       },
       {
